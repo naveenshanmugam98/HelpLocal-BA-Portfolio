@@ -2,6 +2,7 @@
 
 ## Author: Naveen Shanmugam
 **Role:** Senior Business Analyst 
+
 **Target Markets:** Bengaluru & Chennai, India  
 **Professional Footprint:** 4.5 Years Experience (Fintech, Banking & SDLC )
 
