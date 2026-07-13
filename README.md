@@ -34,7 +34,7 @@ This repository contains the complete, step-by-step project delivery lifecycle a
 
 ### Phase 4: Agile Development & Code Data
 * **09. Data Dictionary:** Outlines precise database rules, data formats, and text limits for our engineering team.
-* **10. User Stories:** Backlog items written in agile formatting (`As a... I want to... So that...`) with clean acceptance checklists.
+* **10. User Stories:** Backlog items written in agile formatting with clean acceptance checklists.
 
 ### Phase 5: UI Mockups, Testing & Release
 * **11. Wireframes & Mockups:** Plain-text visual layouts showing exactly where fields and buttons sit on the mobile screens.
